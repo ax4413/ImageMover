@@ -29,7 +29,6 @@ namespace FileMoverBLL
                 else
                     tmpLogFile.WriteLine(string.Format("{0} Copying Files ", DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")).PadRight(115, '>'));
 
-
                 if (!Directory.Exists(targetDir))
                     Directory.CreateDirectory(targetDir);
 
