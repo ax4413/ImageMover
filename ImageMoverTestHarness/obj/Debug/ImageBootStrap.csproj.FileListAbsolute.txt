@@ -1,0 +1,8 @@
+c:\users\steve\documents\visual studio 11\Projects\ImageMover\ImageBootStrap\bin\Debug\ImageBootStrap.exe.config
+c:\users\steve\documents\visual studio 11\Projects\ImageMover\ImageBootStrap\bin\Debug\ImageBootStrap.exe
+c:\users\steve\documents\visual studio 11\Projects\ImageMover\ImageBootStrap\bin\Debug\ImageBootStrap.pdb
+c:\users\steve\documents\visual studio 11\Projects\ImageMover\ImageBootStrap\bin\Debug\ImageMover.dll
+c:\users\steve\documents\visual studio 11\Projects\ImageMover\ImageBootStrap\bin\Debug\ImageMover.pdb
+c:\users\steve\documents\visual studio 11\Projects\ImageMover\ImageBootStrap\obj\Debug\ImageBootStrap.csprojResolveAssemblyReference.cache
+c:\users\steve\documents\visual studio 11\Projects\ImageMover\ImageBootStrap\obj\Debug\ImageBootStrap.exe
+c:\users\steve\documents\visual studio 11\Projects\ImageMover\ImageBootStrap\obj\Debug\ImageBootStrap.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileMoverBLL", "ImageMover\FileMoverBLL.csproj", "{16F8D73E-1EA0-451F-BA9A-CA4F95429BC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileMoverTestHarness", "ImageMoverTestHarness\FileMoverTestHarness.csproj", "{CEB3EE79-3C70-4E99-BA69-F09B18A46FF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16F8D73E-1EA0-451F-BA9A-CA4F95429BC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16F8D73E-1EA0-451F-BA9A-CA4F95429BC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16F8D73E-1EA0-451F-BA9A-CA4F95429BC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16F8D73E-1EA0-451F-BA9A-CA4F95429BC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEB3EE79-3C70-4E99-BA69-F09B18A46FF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB3EE79-3C70-4E99-BA69-F09B18A46FF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB3EE79-3C70-4E99-BA69-F09B18A46FF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB3EE79-3C70-4E99-BA69-F09B18A46FF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

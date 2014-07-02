@@ -1,0 +1,8 @@
+C:\Code\ImageMover\ImageBootStrap\bin\Debug\ImageBootStrap.exe.config
+C:\Code\ImageMover\ImageBootStrap\obj\Debug\ImageBootStrap.exe
+C:\Code\ImageMover\ImageBootStrap\obj\Debug\ImageBootStrap.pdb
+C:\Code\ImageMover\ImageMoverTestHarness\bin\Debug\ImageBootStrap.exe.config
+C:\Code\ImageMover\ImageMoverTestHarness\obj\Debug\ImageBootStrap.exe
+C:\Code\ImageMover\ImageMoverTestHarness\obj\Debug\ImageBootStrap.pdb
+C:\Code\ImageMover\ImageMoverTestHarness\bin\Debug\ImageMoverTestHarness.exe.config
+C:\Code\ImageMover\ImageMoverTestHarness\obj\Debug\ImageMoverTestHarness.csprojResolveAssemblyReference.cache
