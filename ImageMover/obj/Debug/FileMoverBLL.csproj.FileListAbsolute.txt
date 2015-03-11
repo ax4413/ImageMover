@@ -1,5 +1,0 @@
-C:\Code\ImageMover\ImageMover\obj\Debug\FileMoverBLL.csprojResolveAssemblyReference.cache
-C:\Code\ImageMover\ImageMover\bin\Debug\FileMoverBLL.dll
-C:\Code\ImageMover\ImageMover\bin\Debug\FileMoverBLL.pdb
-C:\Code\ImageMover\ImageMover\obj\Debug\FileMoverBLL.dll
-C:\Code\ImageMover\ImageMover\obj\Debug\FileMoverBLL.pdb

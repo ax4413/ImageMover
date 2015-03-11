@@ -1,8 +1,0 @@
-C:\Code\ImageMover\ImageMoverTestHarness\obj\Debug\FileMoverTestHarness.csprojResolveAssemblyReference.cache
-C:\Code\ImageMover\ImageMoverTestHarness\bin\Debug\ImageMoverTestHarness.exe.config
-C:\Code\ImageMover\ImageMoverTestHarness\bin\Debug\ImageMoverTestHarness.exe
-C:\Code\ImageMover\ImageMoverTestHarness\bin\Debug\ImageMoverTestHarness.pdb
-C:\Code\ImageMover\ImageMoverTestHarness\bin\Debug\FileMoverBLL.dll
-C:\Code\ImageMover\ImageMoverTestHarness\bin\Debug\FileMoverBLL.pdb
-C:\Code\ImageMover\ImageMoverTestHarness\obj\Debug\ImageMoverTestHarness.exe
-C:\Code\ImageMover\ImageMoverTestHarness\obj\Debug\ImageMoverTestHarness.pdb
